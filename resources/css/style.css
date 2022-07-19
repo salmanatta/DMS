@@ -1,0 +1,17 @@
+
+.card-border {
+   border-width: 0.08rem !important;
+   border-color: darkgray  !important;
+}   
+
+.card-border2 {
+    border-width: 1px !important;
+    border-color : red  !important;
+    /* background-color: pink; */
+    display: block;
+    box-sizing: border-box;
+ }   
+ .blodHeading
+ {
+   font-weight: bold !important;
+ }
